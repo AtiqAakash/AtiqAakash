@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atiq
-- 👀 I’m interested in Embedded Development and Drones.
+- 👀 I’m interested in UAS and Embedded Development.
 - 📫 LinkedIn: https://www.linkedin.com/in/aakashrahman/
 - 🌐 Website: https://atiq.no
 - 🏁 Facebook: https://www.facebook.com/atiqur.rahman.aakash
