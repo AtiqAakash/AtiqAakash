@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Atiq
+- Drone Pilot & Technician at Beagle Systems.
 - 👀 I’m interested in UAS and Embedded Development.
 - 📫 LinkedIn: https://www.linkedin.com/in/aakashrahman/
 - 🌐 Website: https://atiq.no
